@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NavigationDrawerLayout_Handle_NavDrawerMenuEvents_Android_Github</string>
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_Groups">Groups</string>
+    <string name="nav_item_Events">Events</string>
+    <string name="nav_item_Jobs">Jobs</string>
+    <string name="nav_item_Setting_Privacy">Setting &amp; Privacy</string>
+    <string name="sample_name">Mike Shinoda</string>
+    <string name="sample_email">mike.shionda@linkinpark.com</string>
+
+    <string name="sample_mainContent">Main Content Layout</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+</resources>

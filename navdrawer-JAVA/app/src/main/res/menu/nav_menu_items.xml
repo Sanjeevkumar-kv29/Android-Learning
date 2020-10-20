@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_item_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/nav_item_home"
+            />
+
+        <item
+            android:id="@+id/nav_item_groups"
+            android:icon="@drawable/ic_group_black_24dp"
+            android:title="@string/nav_item_Groups"
+            />
+
+        <item
+            android:id="@+id/nav_item_events"
+            android:icon="@drawable/ic_event_black_24dp"
+            android:title="@string/nav_item_Events"
+            />
+
+        <item
+            android:id="@+id/nav_item_jobs"
+            android:icon="@drawable/ic_code_black_24dp"
+            android:title="@string/nav_item_Jobs"
+            />
+
+        <item
+            android:id="@+id/nav_item_setting_privacy"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="@string/nav_item_Setting_Privacy"
+            />
+    </group>
+
+</menu>
